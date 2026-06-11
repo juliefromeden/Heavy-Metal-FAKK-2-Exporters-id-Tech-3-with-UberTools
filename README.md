@@ -1,4 +1,4 @@
-# Heavy Metal FAKK 2 Exporters (id Tech 3 with UberTools)
+# Heavy Metal FAKK 2 Exporters (idTech3 with UberTools)
 
 - These scripts were created to comfortable and fast export Heavy Metal FAKK 2 original files (models, textures, animations, skeletons)
 - Scripts support Heavy Metal FAKK 2 and have not been tested with converting files from games such as Alice, Star Trek, Medal of Honor etc. 
